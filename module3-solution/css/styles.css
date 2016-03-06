@@ -1,0 +1,37 @@
+.navbar {
+	background-color: #2882b5;
+}
+
+.navbar .navbar-header .navbar-toggle {
+	border-color: #ffffff;
+}
+
+.navbar .navbar-header .navbar-brand {
+	color: #ffffff;
+}
+
+.navbar .navbar-collapse {
+	padding: 0;
+}
+
+.navbar .nav {
+	background-color: #7882b5; 
+}
+
+.navbar .nav a {
+	color: #ffffff;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+.main-content .menu-item {
+	background-color: #cccccc;
+	padding: 1px 10px 0 10px;
+}
+
+@media (max-width: 767px) {
+	.main-content .menu-item {
+		background-color: #cccccc;
+		margin: 30px;
+	}
+}
